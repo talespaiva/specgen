@@ -280,7 +280,7 @@ class Vocab(object):
 					"http://usefulinc.com/ns/doap#"                 : "doap",
 					"http://www.w3.org/2003/06/sw-vocab-status/ns#" : "vs",
 					"http://purl.org/rss/1.0/modules/content/"      : "content",
-					"http://www.w3.org/2003/01/geo/wgs84_pos#"      : "geo",
+					"http://www.opengis.net/ont/geosparql#"      : "geo",
 					"http://www.w3.org/2004/02/skos/core#"          : "skos",
 					"http://purl.org/NET/c4dm/event.owl#"           : "event",
 					"http://purl.org/ontology/co/core#"             : "co",
@@ -298,7 +298,9 @@ class Vocab(object):
 					"http://purl.org/ontology/wo/core#"             : "wo",
 					"http://purl.org/ontology/cco/core#"             : "cco",
 					"http://purl.org/ontology/prv/core#"             : "prv",
-					"http://purl.org/NET/scovo#"                    : "scovo"
+					"http://purl.org/NET/scovo#"                    : "scovo",
+					"http://www.opengis.net/ont/sf#"				: "sf",
+					"http://purl.oclc.org/NET/ssnx/qu/qu#"			: "qu"
 		}
 
 
